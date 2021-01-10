@@ -1,20 +1,42 @@
 import Head from 'next/head'
 import { VpnKey, AlternateEmail } from "@styled-icons/material"
+import { useState } from 'react'
+import Link from 'next/link'
+import { useAuthState } from 'react-firebase-hooks/auth';
+import { useRouter } from 'next/router'
 
 import Container from '../components/container'
 import Layout from '../components/layout'
 import { Button } from "../components/button"
 import { Input } from '../components/input'
 import Footer from '../components/footer'
-import Link from 'next/link'
+import { initFirebase } from '../utils/firebase'
+
+const firebase = initFirebase()
 
 type Props = {
 }
 
 const Index = (props: Props) => {
+  const [user, loading, error] = useAuthState(firebase.auth());
+  const router = useRouter()
 
+  const [username, setusername] = useState("")
+  const [password, setpassword] = useState("")
 
+  if (user) {
+    router.replace('/info')
+  }
 
+  const _signIn = (e: any) => {
+    firebase.auth().signInWithEmailAndPassword(username, password);
+  }
+
+  const _logout = () => {
+    firebase.auth().signOut();
+  };
+
+  console.log(user, loading, error)
   return (
     <>
       <Layout fullScreen>
@@ -34,16 +56,25 @@ const Index = (props: Props) => {
               label="Email"
               placeholder="test@example.com"
               type="email"
-              icon={<AlternateEmail className="w-6 h-6" />}
+              onChange={e => setusername(e.target.value)}
+              Icon={AlternateEmail}
             />
             <Input
               label="Contraseña"
               placeholder="*****"
               type="password"
-              icon={<VpnKey className="w-6 h-6" />}
+              Icon={VpnKey}
+              onChange={e => setpassword(e.target.value)}
             />
+            {error && <div>
+              {error}
+            </div>
+            }
             <div className="w-64 h-10">
-              <Button>
+              <Button
+                className="w-full h-full"
+                onClick={_signIn}
+              >
                 Login
               </Button>
             </div>

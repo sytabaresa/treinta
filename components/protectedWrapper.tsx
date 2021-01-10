@@ -1,7 +1,10 @@
 import { useState, useEffect, ReactChild, ReactChildren } from 'react'
-import { useSession } from 'next-auth/client'
 import AccessDenied from './access-denied'
 import Layout from "./layout"
+import { useAuthState } from 'react-firebase-hooks/auth';
+import { initFirebase } from '../utils/firebase'
+
+const firebase = initFirebase()
 
 interface ProtectedWrapperProps {
   children: ReactChild | ReactChildren;
@@ -9,7 +12,7 @@ interface ProtectedWrapperProps {
 
 export default function ProtectedWrapper(props: ProtectedWrapperProps) {
   const { children } = props
-  const [session, loading] = useSession()
+  const [user, loading, error] = useAuthState(firebase.auth());
   const [content, setContent] = useState()
 
   // Fetch content from protected route
@@ -26,7 +29,7 @@ export default function ProtectedWrapper(props: ProtectedWrapperProps) {
   if (typeof window !== 'undefined' && loading) return null
 
   // If no session exists, display access denied message
-  if (!session) { return <Layout fullScreen><AccessDenied /></Layout> }
+  if (!user) { return <Layout fullScreen><AccessDenied /></Layout> }
 
   // If session exists, display content
   return (

@@ -33,25 +33,25 @@ const Index = (props: Props) => {
             <Input
               label="Nombre Completo"
               placeholder="mi nombre"
-              icon={<Face className="w-6 h-6" />}
+              Icon={Face}
             />
             <Input
               label="Email"
               placeholder="test@example.com"
               type="email"
-              icon={<AlternateEmail className="w-6 h-6" />}
+              Icon={AlternateEmail}
             />
             <Input
               label="Contraseña"
               placeholder="*****"
               type="password"
-              icon={<VpnKey className="w-6 h-6" />}
+              Icon={VpnKey}
             />
             <Input
               label="Repetir Contraseña"
               placeholder="*****"
               type="password"
-              icon={<VpnKey className="w-6 h-6" />}
+              Icon={VpnKey}
             />
             <div className="w-64 h-10">
               <Button>
