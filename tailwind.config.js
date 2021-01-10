@@ -1,8 +1,16 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
+  darkMode: 'class',
+  // xwind options
+  xwind: {
+    mode: 'objectstyles',
+  },
   purge: ['./components/**/*.tsx', './pages/**/*.tsx'],
   theme: {
     extend: {
       colors: {
+        ...colors,
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
         'accent-7': '#333',
@@ -31,3 +39,5 @@ module.exports = {
     },
   },
 }
+
+
