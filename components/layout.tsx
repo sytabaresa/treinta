@@ -2,18 +2,19 @@ import Footer from './footer'
 import Meta from './meta'
 
 type Props = {
-  preview?: boolean
+  fullScreen?: boolean
   children: React.ReactNode
+  footer?: boolean
 }
 
-const Layout = ({ preview, children }: Props) => {
+const Layout = ({ fullScreen = false, footer, children }: Props) => {
   return (
     <>
       <Meta />
-      <div className="min-h-screen">
-        <main>{children}</main>
+      <div>
+        <main className={`${fullScreen && "min-h-screen"} flex flex-col`}>{children}</main>
       </div>
-      <Footer />
+      {footer && <Footer />}
     </>
   )
 }

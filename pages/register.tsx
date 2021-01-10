@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { VpnKey, AlternateEmail } from "@styled-icons/material"
+import { Face, AlternateEmail, VpnKey } from "@styled-icons/material"
 
 import Container from '../components/container'
 import Layout from '../components/layout'
@@ -25,11 +25,16 @@ const Index = (props: Props) => {
           <div className="flex flex-col space-y-7 items-center justify-start pt-8 bg-white">
             <img className="w-44 h-16" src="/assets/logo.png" />
             <div className="flex justify-between items-center w-96 px-10">
-              <p className="text-4xl font-extrabold leading-10 text-gray-900">Login</p>
-              <Link href="/register" passHref>
-                <a className="text-base font-bold leading-normal text-principal">{">"} Registro</a>
+              <p className="text-4xl font-extrabold leading-10 text-gray-900">Registro</p>
+              <Link href="/login" passHref>
+                <a className="text-base font-bold leading-normal text-principal">{">"} Login</a>
               </Link>
             </div>
+            <Input
+              label="Nombre Completo"
+              placeholder="mi nombre"
+              icon={<Face className="w-6 h-6" />}
+            />
             <Input
               label="Email"
               placeholder="test@example.com"
@@ -42,9 +47,15 @@ const Index = (props: Props) => {
               type="password"
               icon={<VpnKey className="w-6 h-6" />}
             />
+            <Input
+              label="Repetir Contraseña"
+              placeholder="*****"
+              type="password"
+              icon={<VpnKey className="w-6 h-6" />}
+            />
             <div className="w-64 h-10">
               <Button>
-                Login
+                Registrarse
               </Button>
             </div>
             {/* <div className="w-full h-36">

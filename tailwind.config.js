@@ -11,6 +11,20 @@ module.exports = {
     extend: {
       colors: {
         ...colors,
+        // 'yellow': '#fbbf24',
+        "yellow": {
+          "50": "#ffff39",
+          "100": "#fffa2f",
+          "200": "#fff025",
+          "300": "#ffe61b",
+          "400": "#ffdc11",
+          "500": "#fdd207",
+          "600": "#f3c800",
+          "700": "#e9be00",
+          "800": "#dfb400",
+          "900": "#d5aa00"
+        },
+        'principal': '#fdd207',
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
         'accent-7': '#333',
