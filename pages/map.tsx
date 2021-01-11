@@ -27,7 +27,12 @@ const MapPage = (props: MapPageprops) => {
         />
         <Container>
           <div className="pt-12 mx-4 relative">
-            {/* <img src="/assets/lines1.svg" alt="lines" className="overflow-img absolute" style={{ width: '500vw', right: '-15px' }} /> */}
+            <img
+              src="/assets/lines1.svg"
+              alt="lines"
+              className="overflow-img absolute -z-10 lg:hidden"
+              style={{ width: '500vw', right: '-15px', top: '-130px' }}
+            />
             <h1 className="text-6xl font-bold ml-4 mb-4">Empresas:</h1>
             <Map />
           </div>

@@ -9,6 +9,9 @@ module.exports = {
   purge: ['./components/**/*.tsx', './pages/**/*.tsx'],
   theme: {
     extend: {
+      zIndex: {
+        '-10': '-10',
+      },
       colors: {
         ...colors,
         // 'yellow': '#fbbf24',

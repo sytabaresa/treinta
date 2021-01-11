@@ -1,13 +1,13 @@
 import { ReactNode, FunctionComponent, HTMLAttributes } from 'react'
 
-interface ContainerProps extends HTMLAttributes<HTMLDivElement> {
+export interface ContainerProps extends HTMLAttributes<HTMLDivElement> {
   children?: ReactNode
 }
 
-const Container: FunctionComponent = (props: ContainerProps) => {
-  const { children, ...others } = props
+const Container = (props: ContainerProps) => {
+  const { children, className, ...others } = props
 
-  return <div className="container mx-auto flex-1" {...others}>{children}</div>
+  return <div className={"container mx-auto flex-1 " + className} {...others}>{children}</div>
 }
 
 export default Container

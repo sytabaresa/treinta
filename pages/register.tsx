@@ -7,13 +7,47 @@ import { Button } from "../components/button"
 import { Input } from '../components/input'
 import Footer from '../components/footer'
 import Link from 'next/link'
+import { useState } from 'react'
+import { initFirebase } from '../lib/firebase'
+import { useRouter } from 'next/router'
+
+const firebase = initFirebase()
 
 type Props = {
 }
 
 const Index = (props: Props) => {
+  const router = useRouter()
 
+  const [data, setdata] = useState({
+    username: '',
+    password: '',
+    passwordRepeat: '',
+    fullName: ''
+  })
 
+  const _register = async (e: any) => {
+
+    if (data.password != data.passwordRepeat) {
+      return
+    }
+
+    try {
+      await firebase.auth().createUserWithEmailAndPassword(data.username, data.password)
+      router.replace('/login')
+    } catch (error) {
+      var errorCode = error.code;
+      var errorMessage = error.message;
+    }
+
+  }
+
+  const _onChange = (e: any) => {
+    setdata({
+      ...data,
+      [e.target.name]: e.target.value
+    })
+  }
 
   return (
     <>
@@ -33,39 +67,39 @@ const Index = (props: Props) => {
             <Input
               label="Nombre Completo"
               placeholder="mi nombre"
+              name="fullName"
+              onChange={_onChange}
               Icon={Face}
             />
             <Input
               label="Email"
               placeholder="test@example.com"
               type="email"
+              name="username"
+              onChange={_onChange}
               Icon={AlternateEmail}
             />
             <Input
               label="Contraseña"
               placeholder="*****"
               type="password"
+              name="password"
+              onChange={_onChange}
               Icon={VpnKey}
             />
             <Input
               label="Repetir Contraseña"
               placeholder="*****"
               type="password"
+              name="passwordRepeat"
+              onChange={_onChange}
               Icon={VpnKey}
             />
             <div className="w-64 h-10">
-              <Button>
+              <Button onClick={_register}>
                 Registrarse
               </Button>
             </div>
-            {/* <div className="w-full h-36">
-              <div className="relative" style={{ width: 360, height: 139, }}>
-                <div className="inline-flex items-end justify-center pt-24 w-96 h-36 bg-white rounded-2xl">
-                  <div className="opacity-50 w-full h-full bg-yellow-400"></div>
-                </div>
-                <div className="opacity-50 w-96 h-32 absolute left-0 top-0 bg-yellow-400 bg-opacity-40"></div>
-              </div>
-            </div> */}
           </div>
         </Container>
         <Footer />

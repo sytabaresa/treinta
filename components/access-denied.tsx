@@ -9,7 +9,7 @@ export default function AccessDenied() {
   
   return (
     <>
-      <Container className="container mx-auto flex-1 flex flex-col items-center justify-center">
+      <Container className="flex flex-col items-center justify-center">
         {/* <div className="flex flex-col items-center justify-center w-full h-full"> */}
         <h1 className="text-4xl font-bold text-principal mb-6">Acceso Denegado</h1>
         <p className="text-xl">Tienes que loguearte para ver esta página</p>

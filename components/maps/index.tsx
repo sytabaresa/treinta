@@ -9,7 +9,7 @@ export interface Mapprops {
 }
 
 export const Map = (props: Mapprops) => {
-  const [places, setplaces] = useState(placesData.results)
+  const [places, setplaces] = useState(placesData.results as any)
 
   const mapOptions = {
     center: {
@@ -78,7 +78,7 @@ export const Map = (props: Mapprops) => {
         onChildClick={onChildClickCallback}
         onGoogleApiLoaded={({ map, maps }: any) => handleApiLoaded(map, maps, places)}
       >
-        {places.map((place) => (
+        {places.map((place: any) => (
           <Marker
             key={place.reference}
             text={place.name}

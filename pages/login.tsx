@@ -36,7 +36,7 @@ const Index = (props: Props) => {
     firebase.auth().signOut();
   };
 
-  console.log(user, loading, error)
+  // console.log(user, loading, error)
   return (
     <>
       <Layout fullScreen>
@@ -78,14 +78,6 @@ const Index = (props: Props) => {
                 Login
               </Button>
             </div>
-            {/* <div className="w-full h-36">
-              <div className="relative" style={{ width: 360, height: 139, }}>
-                <div className="inline-flex items-end justify-center pt-24 w-96 h-36 bg-white rounded-2xl">
-                  <div className="opacity-50 w-full h-full bg-yellow-400"></div>
-                </div>
-                <div className="opacity-50 w-96 h-32 absolute left-0 top-0 bg-yellow-400 bg-opacity-40"></div>
-              </div>
-            </div> */}
           </div>
         </Container>
         <Footer />

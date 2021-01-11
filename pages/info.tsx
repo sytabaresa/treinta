@@ -45,10 +45,21 @@ const InfoPage = (props: Infoprops) => {
         />
         <Container>
           <div className="pt-12 mx-4 relative">
-            {/* <img src="/assets/lines1.svg" alt="lines" className="overflow-img absolute" style={{ width: '500vw', right: '-15px' }} /> */}
+            <img
+              src="/assets/lines1.svg"
+              alt="lines"
+              className="overflow-img absolute -z-10 lg:hidden"
+              style={{ width: '500vw', right: '-15px', top: '-130px' }}
+            />
+            <img
+              src="/assets/lines1.svg"
+              alt="lines"
+              className="overflow-img absolute -z-10 md:hidden"
+              style={{ width: '500vw', right: '-15px', top: '600px' }}
+            />
             <h1 className="text-6xl font-bold ml-4 mb-4">Beneficios:</h1>
             {data.map(({ title, src, description }, index) =>
-              <div key={index} className="inline-flex flex-col items-start justify-start shadow-lg w-full md:w-1/2 my-2 rounded-md">
+              <div key={index} className="inline-flex flex-col items-start justify-start shadow-lg w-full md:w-1/2 my-2 bg-white rounded-md">
                 <div className="flex flex-col items-end justify-start p-4 w-full bg-white border rounded-lg border-gray-200">
                   <div className="w-full h-48 rounded-lg relative">
                     <Image layout="fill" src={src} className="rounded-3xl" objectFit="cover" />

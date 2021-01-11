@@ -11,9 +11,9 @@ const Wrapper = styled.div`
   &:hover {
     z-index: 1;
   }
-`;
+` as any;
 
-const InfoWindow = (props) => {
+const InfoWindow = (props: { place: any; }) => {
   const { place } = props;
 
   return (
@@ -38,6 +38,8 @@ export interface Markerprops extends HTMLAttributes<HTMLDivElement> {
   text: string
   show: boolean
   place: any
+  lat: number,
+  lng: number,
 }
 
 const Marker = (props: Markerprops) => {
