@@ -2,7 +2,7 @@
 
 Esta es una aplicación **PWA** que integra React con varias tecnologías para hacer un MVP.
 
-El despliegue/demo se puede encontrar [aquí](https://app.treinta.ml)
+El despliegue/demo se puede encontrar [aquí](https://app.treinta.ml) y el código fuente se puede encontrar en [GitHub](https://github.com/sytabaresa/treinta)
 
 # Diseños
 
@@ -11,6 +11,7 @@ Los diseños se pueden encontrar en Figma [aquí](https://www.figma.com/file/quB
 
 # tecnologías utilizadas
 
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [PWA](https://github.com/shadowwalker/next-pwa)
