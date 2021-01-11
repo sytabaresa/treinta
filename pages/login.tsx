@@ -17,35 +17,55 @@ const firebase = initFirebase()
 type Props = {
 }
 
+
+const errorMsgMap: { [key: string]: string } = {
+  'auth/invalid-email': 'El correo electrónico está mal escrito',
+  'auth/wrong-password': 'La contraseña es inválida o el usuario no tiene clave',
+  'auth/user-not-found': 'Este usuario no existe',
+  'default': 'error desconocido'
+}
+
 const Index = (props: Props) => {
   const [user, loading, error] = useAuthState(firebase.auth());
   const router = useRouter()
 
   const [username, setusername] = useState("")
   const [password, setpassword] = useState("")
+  const [errorMsg, seterrorMsg] = useState(null as { errorCode: string, errorMessage: string } | null)
 
-  if (user) {
+  if (!loading && user) {
     router.replace('/info')
   }
 
-  const _signIn = (e: any) => {
-    firebase.auth().signInWithEmailAndPassword(username, password);
+  const _signIn = async (e: any) => {
+    seterrorMsg(null)
+    try {
+      await firebase.auth().signInWithEmailAndPassword(username, password)
+      console.log(user)
+      router.replace('/info')
+    } catch (error: any) {
+      // console.log(error)
+      seterrorMsg({
+        errorCode: error.code,
+        errorMessage: error.message,
+      })
+    }
   }
 
-  const _logout = () => {
-    firebase.auth().signOut();
-  };
 
   // console.log(user, loading, error)
   return (
     <>
       <Layout fullScreen>
+        <p className={`fixed right-2 bottom-2 transition duration-500 ease-in-out	bg-red-300 w-full py-2 rounded-lg text-center text-white ${errorMsg ? 'opacity-100' : 'opacity-0'}`}>
+          {errorMsgMap[errorMsg?.errorCode as string] || errorMsgMap['default']}
+        </p>
         <Head>
           <title>Treinta</title>
         </Head>
         <Container>
           <div className="flex flex-col space-y-7 items-center justify-start pt-8 bg-white">
-            <img className="w-44 h-16" src="/assets/logo.png" />
+            <img className="w-44 h-16 lg:my-10" src="/assets/logo.png" />
             <div className="flex justify-between items-center w-96 px-10">
               <p className="text-4xl font-extrabold leading-10 text-gray-900">Login</p>
               <Link href="/register" passHref>
@@ -56,7 +76,7 @@ const Index = (props: Props) => {
               label="Email"
               placeholder="test@example.com"
               type="email"
-              onChange={e => setusername(e.target.value)}
+              onChange={e => { seterrorMsg(null); setusername(e.target.value) }}
               Icon={AlternateEmail}
             />
             <Input
@@ -64,15 +84,11 @@ const Index = (props: Props) => {
               placeholder="*****"
               type="password"
               Icon={VpnKey}
-              onChange={e => setpassword(e.target.value)}
+              onChange={e => { seterrorMsg(null); setpassword(e.target.value) }}
             />
-            {error && <div>
-              {error}
-            </div>
-            }
             <div className="w-64 h-10">
               <Button
-                className="w-full h-full"
+                className="w-full h-full lg:mt-6"
                 onClick={_signIn}
               >
                 Login

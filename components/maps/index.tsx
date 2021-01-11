@@ -56,7 +56,8 @@ export const Map = (props: Mapprops) => {
   const onChildClickCallback = (key: number) => {
     let newPlaces = [...places]; // copying the old datas array
     const index = newPlaces.findIndex((e: any) => e.reference === key);
-    newPlaces[index].show = !newPlaces[index].show || false; // eslint-disable-line no-param-reassign
+    newPlaces = newPlaces.map(e => { e.show = false; return e })
+    newPlaces[index].show = true // eslint-disable-line no-param-reassign
     // console.log(places[index])
     setplaces(newPlaces)
   };

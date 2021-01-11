@@ -16,6 +16,15 @@ const firebase = initFirebase()
 type Props = {
 }
 
+const errorMsgMap: { [key: string]: string } = {
+  'auth/invalid-email': 'El correo electrónico está mal escrito',
+  'auth/wrong-password': 'La contraseña es inválida o el usuario no tiene clave',
+  'auth/password-missmatch': 'Las contraseñas no coinciden',
+  'auth/weak-password': 'La contraseña debe tener 6 caracteres o más',
+  'default': 'error desconocido'
+}
+
+
 const Index = (props: Props) => {
   const router = useRouter()
 
@@ -26,9 +35,15 @@ const Index = (props: Props) => {
     fullName: ''
   })
 
+  const [errorMsg, seterrorMsg] = useState(null as { errorCode: string, errorMessage: string } | null)
+
   const _register = async (e: any) => {
 
     if (data.password != data.passwordRepeat) {
+      seterrorMsg({
+        errorCode: 'auth/password-missmatch',
+        errorMessage: ''
+      })
       return
     }
 
@@ -36,8 +51,10 @@ const Index = (props: Props) => {
       await firebase.auth().createUserWithEmailAndPassword(data.username, data.password)
       router.replace('/login')
     } catch (error) {
-      var errorCode = error.code;
-      var errorMessage = error.message;
+      seterrorMsg({
+        errorCode: error.code,
+        errorMessage: error.message,
+      })
     }
 
   }
@@ -52,12 +69,15 @@ const Index = (props: Props) => {
   return (
     <>
       <Layout fullScreen>
+        <p className={`fixed right-2 bottom-2 transition duration-500 ease-in-out	bg-red-300 w-full h-10 py-2 rounded-lg text-center text-white ${errorMsg ? 'opacity-100' : 'opacity-0'}`}>
+          {errorMsgMap[errorMsg?.errorCode as string] || errorMsgMap['default']}
+        </p>
         <Head>
           <title>Treinta</title>
         </Head>
         <Container>
           <div className="flex flex-col space-y-7 items-center justify-start pt-8 bg-white">
-            <img className="w-44 h-16" src="/assets/logo.png" />
+            <img className="w-44 h-16 lg:my-10" src="/assets/logo.png" />
             <div className="flex justify-between items-center w-96 px-10">
               <p className="text-4xl font-extrabold leading-10 text-gray-900">Registro</p>
               <Link href="/login" passHref>
@@ -96,7 +116,11 @@ const Index = (props: Props) => {
               Icon={VpnKey}
             />
             <div className="w-64 h-10">
-              <Button onClick={_register}>
+              <Button
+                onClick={_register}
+                className="w-full h-full lg:mt-6"
+
+              >
                 Registrarse
               </Button>
             </div>
