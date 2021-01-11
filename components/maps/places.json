@@ -1,998 +1,1958 @@
 {
-  "html_attributions": [],
-  "next_page_token": "ATtYBwK4rS5v4FLA7Lk0GQI-aocPnbz4vNvUDUEpmrNHBLXWq0zkWnybIJ0oxiCbVtlupto_S9TTmevLdEl4efKAPEeYzqE38qDgS4zoUqTqZYA4F8uZGbU5wR11pPCU3CgNPFyxCRaXTYOn31pucbbvcS-WhPhin9wEOwLx9Xuigh1e0dC_Tg4YzVB-jgOs6p_AT0ZxCOtwc6ZqCXjPbXH21ACOX7C1xh5pHoZj5p-BQhZQ6gax5Hk4ilifa8gAAjWbezO-gRnRAcaCMEFe9Tb-Fr6cW5arszz1WyAvQuFtxWkeSCxJhDmun0TbKN4mnNVqzDGF4BIMFzITDf4ElPvOv4ctYYvUTEWYGhkDJ-yT8_HX_OHtn1fcWqlAOVsU2ElYoG4uqRrPAwfUjH3OHc0vmiWCCpgLiVde7rFcw7ezIN7w-EVJbGF5-LsaLRC9JI-3lyvlmDf_Kx7rNcRqQ-HT1e2bIjeHNRt13-OFYeWuxx_yWC1L3od6L7uPK95y7Cl40hCgoSZTZ0_zFASTYaQAk2RaGSfY0z5SKJyVYS-L9htr7QrlPrd2M0YwI6EJsTnn0Ouw5vWR_tBdk097COaM9LuFnX6ztNkoRpvbRlzEIHaQmgbsLYYS9Uoya1A47gNFRY0w6bCqxjtqwtS-_V5wCx_fIpInFspj0Ib8WeAz9D7Ip-539Uju79Qh5adqigTuheISkv-IxC7leWV69WIkG8gQu4CcxhlwX23UnBgLQeTThAAk9m3ZgKy9WkwwXWw1060lUxLLpQg8cH8Yf7_nVMaSrIdmahdqUNKMDqI",
-  "results": [
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl 132 #93B-40, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7317089,
-                  "lng": -74.0891315
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.732998379892723,
-                      "lng": -74.08781677010727
-                  },
-                  "southwest": {
-                      "lat": 4.730298720107279,
-                      "lng": -74.09051642989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "EL RINCON BOYACENSE DE LA 132",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 1456,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/115126427759591069452\">Hannajm Jm</a>"
-                  ],
-                  "photo_reference": "ATtYBwKbvv9to1dUHxETs_HvtzaCT1VzCJQLhPfG-n2LtaE9DncZPNqwjHboOdxEx6ecI5hYQEfvijdUT_FuY001gEm8XrvEM_4QcNddgNy-tV_IZStlZFooMCskHwgkDdYhI8Nr6-dVo2XHNLqnBASuuUnAWLg5THS9hxQKLuALqcO07ZSe",
-                  "width": 2592
-              }
-          ],
-          "place_id": "ChIJBXhQrOiEP44RLd_j1Pzt9Io",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWJ6+M8"
-          },
-          "price_level": 1,
-          "rating": 4.2,
-          "reference": "ChIJBXhQrOiEP44RLd_j1Pzt9Io",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 157
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 151 #103c 21, Bogotá, Cundinamarca, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7502879,
-                  "lng": -74.09319049999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.751666529892722,
-                      "lng": -74.09182792010728
-                  },
-                  "southwest": {
-                      "lat": 4.748966870107278,
-                      "lng": -74.09452757989273
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Wingsburger Bogotá",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 2340,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/110018618985402017534\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwJJw77Q3n74WBNGiwSe57vaUSNmnGxKBfgI3YXWtGv0PUgfOE9XurFmz2nwV_kUlZt8VWSMTdd3yuf3SrA_ClVVXv-B1U7j_iSWre0n3iN0idCJPYWOOpGFLNvN_EdIu3VuL4g6rU-44IfD3jDuXNMDztt1KwVMe2FFdERqp6pkuzsH",
-                  "width": 1080
-              }
-          ],
-          "place_id": "ChIJjwcBnjaFP44RTntDU08FJm4",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7QW24+4P"
-          },
-          "rating": 4.7,
-          "reference": "ChIJjwcBnjaFP44RTntDU08FJm4",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 17
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "a 146-89, Cra. 58d #146-1, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7328695,
-                  "lng": -74.0659067
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.734123329892721,
-                      "lng": -74.06428422010728
-                  },
-                  "southwest": {
-                      "lat": 4.731423670107278,
-                      "lng": -74.06698387989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Wok Parque La Colina",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3480,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/106063063875338600194\">alejandro dirgan</a>"
-                  ],
-                  "photo_reference": "ATtYBwLtZZ9rRoOFu-_l3QY-pRk6VThmGwPHJfAfPY9uDTfo85keLK71DCdwPFG1iSGpU8tt2vRL1uJ8Q_EDvYXVh3MxbocVLXzDVu0f6uy12dpl126ARgl_7Km1X29aePvKMyBFMwU7neY43_TfGhi7bMoDPUa7AxxWnmmt8tlv9gcKtZ4o",
-                  "width": 4640
-              }
-          ],
-          "place_id": "ChIJDeGicxqFP44RLAMJCel44Og",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWMM+4J"
-          },
-          "price_level": 2,
-          "rating": 4.6,
-          "reference": "ChIJDeGicxqFP44RLAMJCel44Og",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 2390
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cra. 13, #8525, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.669451,
-                  "lng": -74.05354729999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.670790079892722,
-                      "lng": -74.05220937010728
-                  },
-                  "southwest": {
-                      "lat": 4.668090420107278,
-                      "lng": -74.05490902989271
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Osk peru",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 2832,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/108045289490816371359\">Osaka Cocina Nikkei</a>"
-                  ],
-                  "photo_reference": "ATtYBwISP_8jWyRgxHtZGXqD31qGjQFFMRYRzJjCNlxe-z7zXi9lULMHehIzOAPhcfr1U0hHEwYD0gwCcZ5Kq_dZ2gJh6Mrt2LL35SD61A6QcV1bXg4I8HgZQyhIG5CgeYoagL4MLX-qCXKkaRU4P_WH7gX9UCnsil-VdOxMFT9PBv-IIxib",
-                  "width": 4240
-              }
-          ],
-          "place_id": "ChIJlxMszfSaP44RkW1l_XWn5B0",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MW9W+QH"
-          },
-          "price_level": 4,
-          "rating": 4.7,
-          "reference": "ChIJlxMszfSaP44RkW1l_XWn5B0",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 2137
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Ac. 100 #8a-55, Bogotá, Cundinamarca, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.6810003,
-                  "lng": -74.04114129999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.682456929892723,
-                      "lng": -74.03973597010727
-                  },
-                  "southwest": {
-                      "lat": 4.679757270107279,
-                      "lng": -74.04243562989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "La Fragata Giratoria",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3024,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/112750830632751231686\">MARCELA MARTINEZ</a>"
-                  ],
-                  "photo_reference": "ATtYBwIKaI_S8MubRJu-elQH1e1_Bu7OZd_wE6Boh1KayBN6jtVsTRBEOutUtZ3brw_r-8Ji83fce_I1ZLqmRmD_MAwhiuHXQGrRssZUH3sfgjeqQcO8JR1YpdmZoW3ymLJCHatnpAJgleMavLhJtZsTDTOgPTOHQo0wF_-OWAN02VDRJV1y",
-                  "width": 4032
-              }
-          ],
-          "place_id": "ChIJfctx7qaaP44RwfxngcMkzVw",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MXJ5+CG"
-          },
-          "rating": 4.7,
-          "reference": "ChIJfctx7qaaP44RwfxngcMkzVw",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 1541
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 93b #11A-84, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.6773655,
-                  "lng": -74.0479946
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.67858227989272,
-                      "lng": -74.04671617010727
-                  },
-                  "southwest": {
-                      "lat": 4.675882620107276,
-                      "lng": -74.04941582989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Restaurante Zona K",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 1013,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/101313391136963152368\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwIwGf4SZmDfNcjd_FnY5-dZSL8jwonguOH1dlvWMTo9N1VLR9sDkhTxix_8QBdYbXByHXQV6t9PC40Acm33SheAKJcM1jQW0T6U1xnSlNdt5WvvlW3KrDuhHnWXw16yl0P6OYMbTTTC9Pg9R_B2GhwMgEx94d_E1RytujaP2caMdv50",
-                  "width": 810
-              }
-          ],
-          "place_id": "ChIJG9r0IZKaP44RMavj3rtzCyY",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MXG2+WR"
-          },
-          "rating": 4.5,
-          "reference": "ChIJG9r0IZKaP44RMavj3rtzCyY",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 100
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "60, Cra. 91 #136, Suba, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.735102599999999,
-                  "lng": -74.0853904
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.736459829892723,
-                      "lng": -74.08406892010728
-                  },
-                  "southwest": {
-                      "lat": 4.73376017010728,
-                      "lng": -74.08676857989273
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "la fogata roja",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 1152,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/101227094348807036412\">JIMMY PEDRAZA ARCOS</a>"
-                  ],
-                  "photo_reference": "ATtYBwJGBNefvg4TBJYWaWfxL_WVnljPHakFvONXfl8QYAqBgxGHt9ogD59IbHKD-QFMO7X5qsJMD7_-Af7f3WEhQgUN8PRvPUNv9z48ioD8-HjPMQ3En06niJehiZYRIHb8z_rBOwvtFI6Qz7GAobEJRGtbWwwP064wnAonxPyG04Yz8bZ-",
-                  "width": 2048
-              }
-          ],
-          "place_id": "ChIJmfuH5OSEP44RpM9RfQ39O64",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWP7+2R"
-          },
-          "price_level": 1,
-          "rating": 4.3,
-          "reference": "ChIJmfuH5OSEP44RpM9RfQ39O64",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 64
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 24a ###57-60, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.644044,
-                  "lng": -74.1001096
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.645410929892722,
-                      "lng": -74.09873322010728
-                  },
-                  "southwest": {
-                      "lat": 4.642711270107278,
-                      "lng": -74.10143287989271
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "USHIN JAPANESE & GRILL",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3265,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/115599496548209143497\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwKk0bmbGKjPI4BLOG0EsfW4UOKaT1zspAdvDQpdnIQzLMDmzRFM7elYgbb5nSNo9icf7uu0CAgxLo3axhlQObUxhL2kV3dMUkM6jheC6R185CYRaJ9oRAvxrSp8LR-cTp9F-sPr5KgIXS4R0FHpPj3078_SRKoFJUH9iMW_zhdJHpiT",
-                  "width": 4000
-              }
-          ],
-          "place_id": "ChIJ74_ClN2bP44RuG-jKGaQjLo",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7JVVX+JX"
-          },
-          "rating": 4.6,
-          "reference": "ChIJ74_ClN2bP44RuG-jKGaQjLo",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 267
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cra. 96a #130C - 39 #, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7303561,
-                  "lng": -74.0941481
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.731700629892722,
-                      "lng": -74.09278897010726
-                  },
-                  "southwest": {
-                      "lat": 4.729000970107278,
-                      "lng": -74.09548862989271
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Comidas Fierros",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 1536,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/109177148488962085842\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwLQmQk-IpzDgfyILONC7XtuVDPJYCUaQnmIL9GlUZ9SISrvlmfq2rjaUmMWlEQFRU_GItdJtSh-hiPnauKPJRODsKxPmfIbZL81oJoxlz0t7r9viUSgQEVY8XMKb53enZxO3_IuX8iNmnHVqgQhp-jhwc1ev6YCEi4uK_ujLBw-vBAL",
-                  "width": 2048
-              }
-          ],
-          "place_id": "ChIJAzfEFWaFP44RTKL4t1SsfYQ",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWJ4+48"
-          },
-          "rating": 4.3,
-          "reference": "ChIJAzfEFWaFP44RTKL4t1SsfYQ",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 18
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 140 #11-90, Usaquén, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.719479,
-                  "lng": -74.0374606
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.720959679892722,
-                      "lng": -74.03623222010727
-                  },
-                  "southwest": {
-                      "lat": 4.718260020107278,
-                      "lng": -74.03893187989271
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Wok Cedritos",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3024,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/112192440650014428902\">José De Oliveira</a>"
-                  ],
-                  "photo_reference": "ATtYBwKZVB0lfHxxn-8TYpwrj7EHUT0iz0yhtOhdNY6s88PISd3SyTLVWXn0GS1YeLvgGoZ-W9PggpgdyRIj4pF20Wuqhf7bO-gt_47eMSn5BTHx1JDwzLjyPMvoYa7dR7reciwZWFRl_SamFTP_lxi5OiVBHHeJ0ukK6IWONxtVbHbXc3ZK",
-                  "width": 4032
-              }
-          ],
-          "place_id": "ChIJz5pZlFuFP44R7nMChw8dnFc",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PX97+Q2"
-          },
-          "price_level": 2,
-          "rating": 4.6,
-          "reference": "ChIJz5pZlFuFP44R7nMChw8dnFc",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 5985
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Av Suba Carrera 103C # 142A - 18, Bogotá, Cundinamarca, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.745248,
-                  "lng": -74.09474399999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.746597829892723,
-                      "lng": -74.09339417010727
-                  },
-                  "southwest": {
-                      "lat": 4.743898170107279,
-                      "lng": -74.09609382989271
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Res Burger",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3456,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/117560976814554628459\">Eduardo Castañeda</a>"
-                  ],
-                  "photo_reference": "ATtYBwLeNDundJxmfuF1fxLFnpFDOmfHAgCMggtHIg--rfetiknrTdum-2T7bdnbSt4K4aQe2sSWqBiCqJo3CilToghVciQJsvARCzlj5a3JoZT2hJLCUKSC-o1KnzBEwwGQ4Z-SAulGItT1IUdWV3cRYvGs9Y5jMyEwrozE1nSTNbHlJAlr",
-                  "width": 4608
-              }
-          ],
-          "place_id": "ChIJ2WnTwvePP44RSQWpUG4sB7Y",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWW4+34"
-          },
-          "rating": 4.6,
-          "reference": "ChIJ2WnTwvePP44RSQWpUG4sB7Y",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 200
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cra. 11a #89-14, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.6720912,
-                  "lng": -74.0497457
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.673435429892723,
-                      "lng": -74.04838492010727
-                  },
-                  "southwest": {
-                      "lat": 4.670735770107279,
-                      "lng": -74.05108457989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Osaki 89",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 2448,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/110730232827698488458\">Sebastian Denes</a>"
-                  ],
-                  "photo_reference": "ATtYBwL1g7PlRn66hWkPszGgArjFhdWVnysXVvDXUgAiyew-BOG9e_6Qk-NfYGjTSacwxfIMzcLLhCR3jO_HSBj-geIsLTxf67ZMvdLPVcy0LmD8VZls7HKknbse7lpLHbQ1XXwx2LgfVhhaHi3oadxl0oxeS_Sr94YPsR7X3akQW04MrJRk",
-                  "width": 3264
-              }
-          ],
-          "place_id": "ChIJVwKWb4yaP44RHxIF11hUrhQ",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MXC2+R4"
-          },
-          "price_level": 2,
-          "rating": 4.6,
-          "reference": "ChIJVwKWb4yaP44RHxIF11hUrhQ",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 774
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 93a #11A-47, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.676180599999999,
-                  "lng": -74.04827780000001
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.677574679892722,
-                      "lng": -74.04690587010728
-                  },
-                  "southwest": {
-                      "lat": 4.674875020107279,
-                      "lng": -74.04960552989273
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Gato Negro",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3024,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/110361617460848632463\">Fernando Ruiz</a>"
-                  ],
-                  "photo_reference": "ATtYBwK1Al4cUu0soDwd5m21y8yOWXVB6JNDAQ06uZX_faDFxIl_zI1dXmhXUoXF0VSrcYHNe0rwdF_EtnVm8ZIAxAExXWvLgc1daeYA71AZA-W2H6-nPFMhxbpTZXHfw5fZFHhZzUiAIagb_-gG8A6ARKHJmyEwA-FO6946UGYXO48DwnGY",
-                  "width": 4032
-              }
-          ],
-          "place_id": "ChIJPbFLBpKaP44RIEiTXqvJ-mQ",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MXG2+FM"
-          },
-          "price_level": 2,
-          "rating": 4.4,
-          "reference": "ChIJPbFLBpKaP44RIEiTXqvJ-mQ",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 998
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "a 70f-92, Cl. 80 #70f-88, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.694917600000001,
-                  "lng": -74.0866051
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.695936679892722,
-                      "lng": -74.08555992010727
-                  },
-                  "southwest": {
-                      "lat": 4.693237020107278,
-                      "lng": -74.08825957989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Wok",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3024,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/112100601319319820122\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwL_oKt4WG5u3OsaIXbYFrM_4nAAPTF5CugjPrAgzfKWBvmKQ512mRTPn6WHX6cYKxrWZ8ocIZ7KwUkft8NKDMQI9fetd52Nm3ouDKBH2CrvJPSkNEdbF_gzFzTwfPI5ebUTOrzL-lX0HxJhW9IIR-72yomDbNHnWLvZ_RLL9CekHZ7H",
-                  "width": 4032
-              }
-          ],
-          "place_id": "ChIJ-WnFGiWbP44R9fsM1XzuKSg",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MWV7+X9"
-          },
-          "price_level": 2,
-          "rating": 4.4,
-          "reference": "ChIJ-WnFGiWbP44R9fsM1XzuKSg",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 116
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cra. 16a ##141-47, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7232845,
-                  "lng": -74.0429369
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.724635179892721,
-                      "lng": -74.04161867010728
-                  },
-                  "southwest": {
-                      "lat": 4.721935520107277,
-                      "lng": -74.04431832989273
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Juca Sushi Bogotá",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3000,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/113065377394864048164\">Majo Martinez Mendoza</a>"
-                  ],
-                  "photo_reference": "ATtYBwLTvXckThODHMGT9u459iYgqkqd4rjqeobrPsYmEH0k3JQXo5_w4m8rcl8OxxNMoyxqC4E1kB0jyQ0eQzw7sWpX6ZHVugCbzuABs9BQu0MEKUyZhrfwl3iGpGMnom0FIHgcTebEoifx-at7dekuMLKDPMHItzOyb7ULNN0dj8xlTgWE",
-                  "width": 4000
-              }
-          ],
-          "place_id": "ChIJQyhIbGaFP44RKYnlij1ahaA",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PXF4+8R"
-          },
-          "rating": 4.6,
-          "reference": "ChIJQyhIbGaFP44RKYnlij1ahaA",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 142
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "58, Cra. 91 #137, Suba, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7360424,
-                  "lng": -74.08508909999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.737405529892721,
-                      "lng": -74.08379982010727
-                  },
-                  "southwest": {
-                      "lat": 4.734705870107277,
-                      "lng": -74.08649947989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "rapi yak",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 4032,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/108477901545390045437\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwJZHyY4nW_VzOqnbCHXiGNaS5LJmaA0ExyDCQygm30M6V_xvIwwqouYQG0_d4TpIQSmOm4hrtqZQ-d6aNUQ5B4o0WeHc9PU_5Vvexfej5teRX8HINwyFRxFe54b2nq1dXkOUTtgia_12zpvW9IrWX0iupbzfij3c6q5beJqdW0lwd3u",
-                  "width": 3016
-              }
-          ],
-          "place_id": "ChIJ2fE52-SEP44RnmB5FO5q_UU",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWP7+CX"
-          },
-          "rating": 4.4,
-          "reference": "ChIJ2fE52-SEP44RnmB5FO5q_UU",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 232
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cra 58C ##131a-05, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7227605,
-                  "lng": -74.06902029999999
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.724097479892722,
-                      "lng": -74.06763742010727
-                  },
-                  "southwest": {
-                      "lat": 4.721397820107279,
-                      "lng": -74.07033707989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Ramón Queso Y Jamón",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 1920,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/102330077030316653300\">Pablo Calderon</a>"
-                  ],
-                  "photo_reference": "ATtYBwIwyEVUZP3IUVNcupRxxRlEpB17C_1L4AwmPQT-dPwNCdV-ynRf5Clkw9VKyUCNAppYrPm4y6ppXgP13qT-Io1xx_82a062g87C0MLrnzOt3c_41o5FaykN7TcV3wfTt2bMJIF-OG79nk7JKs-bB64mCwUFedzAX7LR9oxfoLs8o8Y9",
-                  "width": 1080
-              }
-          ],
-          "place_id": "ChIJw-dEvSOFP44RQdHt1H4Dkws",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PWFJ+49"
-          },
-          "rating": 4.6,
-          "reference": "ChIJw-dEvSOFP44RQdHt1H4Dkws",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 68
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Cl. 118 ##6A - 27, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.695044999999999,
-                  "lng": -74.031831
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.696425879892722,
-                      "lng": -74.03046762010727
-                  },
-                  "southwest": {
-                      "lat": 4.693726220107278,
-                      "lng": -74.03316727989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Osaki Usaquén",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 3024,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/108958799977332365498\">Myriam Cecilia</a>"
-                  ],
-                  "photo_reference": "ATtYBwI1pLsA6uqAXXLnNaCtfpdpn5D0cFHV1o7FhXstxOXAL5juhFfwW_6afTh59HncT2SLMxgeM_qaYWGQrB6VfsOm1KBQrNrdHw5Pu7PJ_6ATPobgfhAXVCZjIhn1jgYYPir0W0yu6seSK5G0-TD8xEhpDxXM5h-c6vcw1uMkSwaRY3md",
-                  "width": 4032
-              }
-          ],
-          "place_id": "ChIJqZvOwqeaP44RfgjuVIeKfIE",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MXW9+27"
-          },
-          "price_level": 2,
-          "rating": 4.5,
-          "reference": "ChIJqZvOwqeaP44RfgjuVIeKfIE",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 1535
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Carrera 82 No 25 G - 84 Hotel Hilton Garden Inn Bogota Airport, Bogotá, Cundinamarca, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.673401399999999,
-                  "lng": -74.1174994
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.674858079892721,
-                      "lng": -74.11621167010728
-                  },
-                  "southwest": {
-                      "lat": 4.672158420107277,
-                      "lng": -74.11891132989273
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Restaurante The Garden",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 4912,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/106989452230977043139\">A Google User</a>"
-                  ],
-                  "photo_reference": "ATtYBwJTUkiS-iAYRja1HtulIDZ13LX0cn8NS-CI0817aqUJdx7upashKBCNfsYHSrLQnZS880DJzZM1uqmZrqKD9EuNxrAGT3HMFfkgbGcJQ9fbJafQ--SafhU3X8N10Bz8i_aYGVTJsKWfus1iVqr-m7VfCRv2j7zy60mkm1PDPw7FfgGS",
-                  "width": 7360
-              }
-          ],
-          "place_id": "ChIJp9_rxEWbP44RAYQO7_pTL5o",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7MVFM+92"
-          },
-          "rating": 4.5,
-          "reference": "ChIJp9_rxEWbP44RAYQO7_pTL5o",
-          "types": [
-              "restaurant",
-              "bar",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 17
-      },
-      {
-          "business_status": "OPERATIONAL",
-          "formatted_address": "Ak. 19 #118-92, Bogotá, Colombia",
-          "geometry": {
-              "location": {
-                  "lat": 4.7004217,
-                  "lng": -74.0493261
-              },
-              "viewport": {
-                  "northeast": {
-                      "lat": 4.701778779892721,
-                      "lng": -74.04809397010729
-                  },
-                  "southwest": {
-                      "lat": 4.699079120107277,
-                      "lng": -74.05079362989272
-                  }
-              }
-          },
-          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "name": "Central Cevichería av. 19",
-          "opening_hours": {
-              "open_now": true
-          },
-          "photos": [
-              {
-                  "height": 2304,
-                  "html_attributions": [
-                      "<a href=\"https://maps.google.com/maps/contrib/116697508014347667535\">Pedro Pablo Ochoa</a>"
-                  ],
-                  "photo_reference": "ATtYBwLdYVyjFczXpQ9IbJxNoYMdYmaqjYMiZFVsyp262GX2VObTd15lyZ5b2yhBB1Y_dvJy3XhMIYIP-_M9GlslxsXjECA7kuZ8I3zv2pnEt6kZF4DZx1DMI6lw-svXgocU5Apf1y3NGIaASpogJNY-gnM4qHGt9ULeHI7DYfzrXH3s3VMY",
-                  "width": 4096
-              }
-          ],
-          "place_id": "ChIJf2DX7baaP44RR7jI--DF6IA",
-          "plus_code": {
-              "compound_code": "",
-              "global_code": "67P7PX22+57"
-          },
-          "price_level": 3,
-          "rating": 4.6,
-          "reference": "ChIJf2DX7baaP44RR7jI--DF6IA",
-          "types": [
-              "restaurant",
-              "food",
-              "point_of_interest",
-              "establishment"
-          ],
-          "user_ratings_total": 1827
-      }
-  ],
-  "status": "OK"
+    "html_attributions": [],
+    "next_page_token": "ATtYBwK4rS5v4FLA7Lk0GQI-aocPnbz4vNvUDUEpmrNHBLXWq0zkWnybIJ0oxiCbVtlupto_S9TTmevLdEl4efKAPEeYzqE38qDgS4zoUqTqZYA4F8uZGbU5wR11pPCU3CgNPFyxCRaXTYOn31pucbbvcS-WhPhin9wEOwLx9Xuigh1e0dC_Tg4YzVB-jgOs6p_AT0ZxCOtwc6ZqCXjPbXH21ACOX7C1xh5pHoZj5p-BQhZQ6gax5Hk4ilifa8gAAjWbezO-gRnRAcaCMEFe9Tb-Fr6cW5arszz1WyAvQuFtxWkeSCxJhDmun0TbKN4mnNVqzDGF4BIMFzITDf4ElPvOv4ctYYvUTEWYGhkDJ-yT8_HX_OHtn1fcWqlAOVsU2ElYoG4uqRrPAwfUjH3OHc0vmiWCCpgLiVde7rFcw7ezIN7w-EVJbGF5-LsaLRC9JI-3lyvlmDf_Kx7rNcRqQ-HT1e2bIjeHNRt13-OFYeWuxx_yWC1L3od6L7uPK95y7Cl40hCgoSZTZ0_zFASTYaQAk2RaGSfY0z5SKJyVYS-L9htr7QrlPrd2M0YwI6EJsTnn0Ouw5vWR_tBdk097COaM9LuFnX6ztNkoRpvbRlzEIHaQmgbsLYYS9Uoya1A47gNFRY0w6bCqxjtqwtS-_V5wCx_fIpInFspj0Ib8WeAz9D7Ip-539Uju79Qh5adqigTuheISkv-IxC7leWV69WIkG8gQu4CcxhlwX23UnBgLQeTThAAk9m3ZgKy9WkwwXWw1060lUxLLpQg8cH8Yf7_nVMaSrIdmahdqUNKMDqI",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl 132 #93B-40, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7317089,
+                    "lng": -74.0891315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.732998379892723,
+                        "lng": -74.08781677010727
+                    },
+                    "southwest": {
+                        "lat": 4.730298720107279,
+                        "lng": -74.09051642989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "EL RINCON BOYACENSE DE LA 132",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115126427759591069452\">Hannajm Jm</a>"
+                    ],
+                    "photo_reference": "ATtYBwKbvv9to1dUHxETs_HvtzaCT1VzCJQLhPfG-n2LtaE9DncZPNqwjHboOdxEx6ecI5hYQEfvijdUT_FuY001gEm8XrvEM_4QcNddgNy-tV_IZStlZFooMCskHwgkDdYhI8Nr6-dVo2XHNLqnBASuuUnAWLg5THS9hxQKLuALqcO07ZSe",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJBXhQrOiEP44RLd_j1Pzt9Io",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWJ6+M8"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJBXhQrOiEP44RLd_j1Pzt9Io",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 157
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 151 #103c 21, Bogotá, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7502879,
+                    "lng": -74.09319049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.751666529892722,
+                        "lng": -74.09182792010728
+                    },
+                    "southwest": {
+                        "lat": 4.748966870107278,
+                        "lng": -74.09452757989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Wingsburger Bogotá",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110018618985402017534\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwJJw77Q3n74WBNGiwSe57vaUSNmnGxKBfgI3YXWtGv0PUgfOE9XurFmz2nwV_kUlZt8VWSMTdd3yuf3SrA_ClVVXv-B1U7j_iSWre0n3iN0idCJPYWOOpGFLNvN_EdIu3VuL4g6rU-44IfD3jDuXNMDztt1KwVMe2FFdERqp6pkuzsH",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJjwcBnjaFP44RTntDU08FJm4",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7QW24+4P"
+            },
+            "rating": 4.7,
+            "reference": "ChIJjwcBnjaFP44RTntDU08FJm4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "a 146-89, Cra. 58d #146-1, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7328695,
+                    "lng": -74.0659067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.734123329892721,
+                        "lng": -74.06428422010728
+                    },
+                    "southwest": {
+                        "lat": 4.731423670107278,
+                        "lng": -74.06698387989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Wok Parque La Colina",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106063063875338600194\">alejandro dirgan</a>"
+                    ],
+                    "photo_reference": "ATtYBwLtZZ9rRoOFu-_l3QY-pRk6VThmGwPHJfAfPY9uDTfo85keLK71DCdwPFG1iSGpU8tt2vRL1uJ8Q_EDvYXVh3MxbocVLXzDVu0f6uy12dpl126ARgl_7Km1X29aePvKMyBFMwU7neY43_TfGhi7bMoDPUa7AxxWnmmt8tlv9gcKtZ4o",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJDeGicxqFP44RLAMJCel44Og",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWMM+4J"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJDeGicxqFP44RLAMJCel44Og",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2390
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 13, #8525, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.669451,
+                    "lng": -74.05354729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.670790079892722,
+                        "lng": -74.05220937010728
+                    },
+                    "southwest": {
+                        "lat": 4.668090420107278,
+                        "lng": -74.05490902989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Osk peru",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108045289490816371359\">Osaka Cocina Nikkei</a>"
+                    ],
+                    "photo_reference": "ATtYBwISP_8jWyRgxHtZGXqD31qGjQFFMRYRzJjCNlxe-z7zXi9lULMHehIzOAPhcfr1U0hHEwYD0gwCcZ5Kq_dZ2gJh6Mrt2LL35SD61A6QcV1bXg4I8HgZQyhIG5CgeYoagL4MLX-qCXKkaRU4P_WH7gX9UCnsil-VdOxMFT9PBv-IIxib",
+                    "width": 4240
+                }
+            ],
+            "place_id": "ChIJlxMszfSaP44RkW1l_XWn5B0",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MW9W+QH"
+            },
+            "price_level": 4,
+            "rating": 4.7,
+            "reference": "ChIJlxMszfSaP44RkW1l_XWn5B0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2137
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ac. 100 #8a-55, Bogotá, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6810003,
+                    "lng": -74.04114129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.682456929892723,
+                        "lng": -74.03973597010727
+                    },
+                    "southwest": {
+                        "lat": 4.679757270107279,
+                        "lng": -74.04243562989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "La Fragata Giratoria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112750830632751231686\">MARCELA MARTINEZ</a>"
+                    ],
+                    "photo_reference": "ATtYBwIKaI_S8MubRJu-elQH1e1_Bu7OZd_wE6Boh1KayBN6jtVsTRBEOutUtZ3brw_r-8Ji83fce_I1ZLqmRmD_MAwhiuHXQGrRssZUH3sfgjeqQcO8JR1YpdmZoW3ymLJCHatnpAJgleMavLhJtZsTDTOgPTOHQo0wF_-OWAN02VDRJV1y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfctx7qaaP44RwfxngcMkzVw",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXJ5+CG"
+            },
+            "rating": 4.7,
+            "reference": "ChIJfctx7qaaP44RwfxngcMkzVw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1541
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 93b #11A-84, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6773655,
+                    "lng": -74.0479946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.67858227989272,
+                        "lng": -74.04671617010727
+                    },
+                    "southwest": {
+                        "lat": 4.675882620107276,
+                        "lng": -74.04941582989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Restaurante Zona K",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1013,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101313391136963152368\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwIwGf4SZmDfNcjd_FnY5-dZSL8jwonguOH1dlvWMTo9N1VLR9sDkhTxix_8QBdYbXByHXQV6t9PC40Acm33SheAKJcM1jQW0T6U1xnSlNdt5WvvlW3KrDuhHnWXw16yl0P6OYMbTTTC9Pg9R_B2GhwMgEx94d_E1RytujaP2caMdv50",
+                    "width": 810
+                }
+            ],
+            "place_id": "ChIJG9r0IZKaP44RMavj3rtzCyY",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXG2+WR"
+            },
+            "rating": 4.5,
+            "reference": "ChIJG9r0IZKaP44RMavj3rtzCyY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "60, Cra. 91 #136, Suba, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.735102599999999,
+                    "lng": -74.0853904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.736459829892723,
+                        "lng": -74.08406892010728
+                    },
+                    "southwest": {
+                        "lat": 4.73376017010728,
+                        "lng": -74.08676857989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "la fogata roja",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101227094348807036412\">JIMMY PEDRAZA ARCOS</a>"
+                    ],
+                    "photo_reference": "ATtYBwJGBNefvg4TBJYWaWfxL_WVnljPHakFvONXfl8QYAqBgxGHt9ogD59IbHKD-QFMO7X5qsJMD7_-Af7f3WEhQgUN8PRvPUNv9z48ioD8-HjPMQ3En06niJehiZYRIHb8z_rBOwvtFI6Qz7GAobEJRGtbWwwP064wnAonxPyG04Yz8bZ-",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJmfuH5OSEP44RpM9RfQ39O64",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWP7+2R"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJmfuH5OSEP44RpM9RfQ39O64",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 24a ###57-60, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.644044,
+                    "lng": -74.1001096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.645410929892722,
+                        "lng": -74.09873322010728
+                    },
+                    "southwest": {
+                        "lat": 4.642711270107278,
+                        "lng": -74.10143287989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "USHIN JAPANESE & GRILL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115599496548209143497\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwKk0bmbGKjPI4BLOG0EsfW4UOKaT1zspAdvDQpdnIQzLMDmzRFM7elYgbb5nSNo9icf7uu0CAgxLo3axhlQObUxhL2kV3dMUkM6jheC6R185CYRaJ9oRAvxrSp8LR-cTp9F-sPr5KgIXS4R0FHpPj3078_SRKoFJUH9iMW_zhdJHpiT",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ74_ClN2bP44RuG-jKGaQjLo",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7JVVX+JX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ74_ClN2bP44RuG-jKGaQjLo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 267
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 96a #130C - 39 #, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7303561,
+                    "lng": -74.0941481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.731700629892722,
+                        "lng": -74.09278897010726
+                    },
+                    "southwest": {
+                        "lat": 4.729000970107278,
+                        "lng": -74.09548862989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Comidas Fierros",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109177148488962085842\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwLQmQk-IpzDgfyILONC7XtuVDPJYCUaQnmIL9GlUZ9SISrvlmfq2rjaUmMWlEQFRU_GItdJtSh-hiPnauKPJRODsKxPmfIbZL81oJoxlz0t7r9viUSgQEVY8XMKb53enZxO3_IuX8iNmnHVqgQhp-jhwc1ev6YCEi4uK_ujLBw-vBAL",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJAzfEFWaFP44RTKL4t1SsfYQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWJ4+48"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAzfEFWaFP44RTKL4t1SsfYQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 140 #11-90, Usaquén, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.719479,
+                    "lng": -74.0374606
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.720959679892722,
+                        "lng": -74.03623222010727
+                    },
+                    "southwest": {
+                        "lat": 4.718260020107278,
+                        "lng": -74.03893187989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Wok Cedritos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112192440650014428902\">José De Oliveira</a>"
+                    ],
+                    "photo_reference": "ATtYBwKZVB0lfHxxn-8TYpwrj7EHUT0iz0yhtOhdNY6s88PISd3SyTLVWXn0GS1YeLvgGoZ-W9PggpgdyRIj4pF20Wuqhf7bO-gt_47eMSn5BTHx1JDwzLjyPMvoYa7dR7reciwZWFRl_SamFTP_lxi5OiVBHHeJ0ukK6IWONxtVbHbXc3ZK",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJz5pZlFuFP44R7nMChw8dnFc",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PX97+Q2"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJz5pZlFuFP44R7nMChw8dnFc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5985
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av Suba Carrera 103C # 142A - 18, Bogotá, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.745248,
+                    "lng": -74.09474399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.746597829892723,
+                        "lng": -74.09339417010727
+                    },
+                    "southwest": {
+                        "lat": 4.743898170107279,
+                        "lng": -74.09609382989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Res Burger",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117560976814554628459\">Eduardo Castañeda</a>"
+                    ],
+                    "photo_reference": "ATtYBwLeNDundJxmfuF1fxLFnpFDOmfHAgCMggtHIg--rfetiknrTdum-2T7bdnbSt4K4aQe2sSWqBiCqJo3CilToghVciQJsvARCzlj5a3JoZT2hJLCUKSC-o1KnzBEwwGQ4Z-SAulGItT1IUdWV3cRYvGs9Y5jMyEwrozE1nSTNbHlJAlr",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ2WnTwvePP44RSQWpUG4sB7Y",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWW4+34"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ2WnTwvePP44RSQWpUG4sB7Y",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 200
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 11a #89-14, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6720912,
+                    "lng": -74.0497457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.673435429892723,
+                        "lng": -74.04838492010727
+                    },
+                    "southwest": {
+                        "lat": 4.670735770107279,
+                        "lng": -74.05108457989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Osaki 89",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110730232827698488458\">Sebastian Denes</a>"
+                    ],
+                    "photo_reference": "ATtYBwL1g7PlRn66hWkPszGgArjFhdWVnysXVvDXUgAiyew-BOG9e_6Qk-NfYGjTSacwxfIMzcLLhCR3jO_HSBj-geIsLTxf67ZMvdLPVcy0LmD8VZls7HKknbse7lpLHbQ1XXwx2LgfVhhaHi3oadxl0oxeS_Sr94YPsR7X3akQW04MrJRk",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJVwKWb4yaP44RHxIF11hUrhQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXC2+R4"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJVwKWb4yaP44RHxIF11hUrhQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 774
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 93a #11A-47, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.676180599999999,
+                    "lng": -74.04827780000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.677574679892722,
+                        "lng": -74.04690587010728
+                    },
+                    "southwest": {
+                        "lat": 4.674875020107279,
+                        "lng": -74.04960552989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Gato Negro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110361617460848632463\">Fernando Ruiz</a>"
+                    ],
+                    "photo_reference": "ATtYBwK1Al4cUu0soDwd5m21y8yOWXVB6JNDAQ06uZX_faDFxIl_zI1dXmhXUoXF0VSrcYHNe0rwdF_EtnVm8ZIAxAExXWvLgc1daeYA71AZA-W2H6-nPFMhxbpTZXHfw5fZFHhZzUiAIagb_-gG8A6ARKHJmyEwA-FO6946UGYXO48DwnGY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPbFLBpKaP44RIEiTXqvJ-mQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXG2+FM"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJPbFLBpKaP44RIEiTXqvJ-mQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 998
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "a 70f-92, Cl. 80 #70f-88, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.694917600000001,
+                    "lng": -74.0866051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.695936679892722,
+                        "lng": -74.08555992010727
+                    },
+                    "southwest": {
+                        "lat": 4.693237020107278,
+                        "lng": -74.08825957989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Wok",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112100601319319820122\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwL_oKt4WG5u3OsaIXbYFrM_4nAAPTF5CugjPrAgzfKWBvmKQ512mRTPn6WHX6cYKxrWZ8ocIZ7KwUkft8NKDMQI9fetd52Nm3ouDKBH2CrvJPSkNEdbF_gzFzTwfPI5ebUTOrzL-lX0HxJhW9IIR-72yomDbNHnWLvZ_RLL9CekHZ7H",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-WnFGiWbP44R9fsM1XzuKSg",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MWV7+X9"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ-WnFGiWbP44R9fsM1XzuKSg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 116
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 16a ##141-47, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7232845,
+                    "lng": -74.0429369
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.724635179892721,
+                        "lng": -74.04161867010728
+                    },
+                    "southwest": {
+                        "lat": 4.721935520107277,
+                        "lng": -74.04431832989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Juca Sushi Bogotá",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113065377394864048164\">Majo Martinez Mendoza</a>"
+                    ],
+                    "photo_reference": "ATtYBwLTvXckThODHMGT9u459iYgqkqd4rjqeobrPsYmEH0k3JQXo5_w4m8rcl8OxxNMoyxqC4E1kB0jyQ0eQzw7sWpX6ZHVugCbzuABs9BQu0MEKUyZhrfwl3iGpGMnom0FIHgcTebEoifx-at7dekuMLKDPMHItzOyb7ULNN0dj8xlTgWE",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJQyhIbGaFP44RKYnlij1ahaA",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PXF4+8R"
+            },
+            "rating": 4.6,
+            "reference": "ChIJQyhIbGaFP44RKYnlij1ahaA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 142
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "58, Cra. 91 #137, Suba, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7360424,
+                    "lng": -74.08508909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.737405529892721,
+                        "lng": -74.08379982010727
+                    },
+                    "southwest": {
+                        "lat": 4.734705870107277,
+                        "lng": -74.08649947989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "rapi yak",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108477901545390045437\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwJZHyY4nW_VzOqnbCHXiGNaS5LJmaA0ExyDCQygm30M6V_xvIwwqouYQG0_d4TpIQSmOm4hrtqZQ-d6aNUQ5B4o0WeHc9PU_5Vvexfej5teRX8HINwyFRxFe54b2nq1dXkOUTtgia_12zpvW9IrWX0iupbzfij3c6q5beJqdW0lwd3u",
+                    "width": 3016
+                }
+            ],
+            "place_id": "ChIJ2fE52-SEP44RnmB5FO5q_UU",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWP7+CX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ2fE52-SEP44RnmB5FO5q_UU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 232
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra 58C ##131a-05, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7227605,
+                    "lng": -74.06902029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.724097479892722,
+                        "lng": -74.06763742010727
+                    },
+                    "southwest": {
+                        "lat": 4.721397820107279,
+                        "lng": -74.07033707989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Ramón Queso Y Jamón",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102330077030316653300\">Pablo Calderon</a>"
+                    ],
+                    "photo_reference": "ATtYBwIwyEVUZP3IUVNcupRxxRlEpB17C_1L4AwmPQT-dPwNCdV-ynRf5Clkw9VKyUCNAppYrPm4y6ppXgP13qT-Io1xx_82a062g87C0MLrnzOt3c_41o5FaykN7TcV3wfTt2bMJIF-OG79nk7JKs-bB64mCwUFedzAX7LR9oxfoLs8o8Y9",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJw-dEvSOFP44RQdHt1H4Dkws",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWFJ+49"
+            },
+            "rating": 4.6,
+            "reference": "ChIJw-dEvSOFP44RQdHt1H4Dkws",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 68
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 118 ##6A - 27, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.695044999999999,
+                    "lng": -74.031831
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.696425879892722,
+                        "lng": -74.03046762010727
+                    },
+                    "southwest": {
+                        "lat": 4.693726220107278,
+                        "lng": -74.03316727989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Osaki Usaquén",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108958799977332365498\">Myriam Cecilia</a>"
+                    ],
+                    "photo_reference": "ATtYBwI1pLsA6uqAXXLnNaCtfpdpn5D0cFHV1o7FhXstxOXAL5juhFfwW_6afTh59HncT2SLMxgeM_qaYWGQrB6VfsOm1KBQrNrdHw5Pu7PJ_6ATPobgfhAXVCZjIhn1jgYYPir0W0yu6seSK5G0-TD8xEhpDxXM5h-c6vcw1uMkSwaRY3md",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJqZvOwqeaP44RfgjuVIeKfIE",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXW9+27"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJqZvOwqeaP44RfgjuVIeKfIE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1535
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carrera 82 No 25 G - 84 Hotel Hilton Garden Inn Bogota Airport, Bogotá, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.673401399999999,
+                    "lng": -74.1174994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.674858079892721,
+                        "lng": -74.11621167010728
+                    },
+                    "southwest": {
+                        "lat": 4.672158420107277,
+                        "lng": -74.11891132989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Restaurante The Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106989452230977043139\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwJTUkiS-iAYRja1HtulIDZ13LX0cn8NS-CI0817aqUJdx7upashKBCNfsYHSrLQnZS880DJzZM1uqmZrqKD9EuNxrAGT3HMFfkgbGcJQ9fbJafQ--SafhU3X8N10Bz8i_aYGVTJsKWfus1iVqr-m7VfCRv2j7zy60mkm1PDPw7FfgGS",
+                    "width": 7360
+                }
+            ],
+            "place_id": "ChIJp9_rxEWbP44RAYQO7_pTL5o",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MVFM+92"
+            },
+            "rating": 4.5,
+            "reference": "ChIJp9_rxEWbP44RAYQO7_pTL5o",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ak. 19 #118-92, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7004217,
+                    "lng": -74.0493261
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.701778779892721,
+                        "lng": -74.04809397010729
+                    },
+                    "southwest": {
+                        "lat": 4.699079120107277,
+                        "lng": -74.05079362989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Central Cevichería av. 19",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116697508014347667535\">Pedro Pablo Ochoa</a>"
+                    ],
+                    "photo_reference": "ATtYBwLdYVyjFczXpQ9IbJxNoYMdYmaqjYMiZFVsyp262GX2VObTd15lyZ5b2yhBB1Y_dvJy3XhMIYIP-_M9GlslxsXjECA7kuZ8I3zv2pnEt6kZF4DZx1DMI6lw-svXgocU5Apf1y3NGIaASpogJNY-gnM4qHGt9ULeHI7DYfzrXH3s3VMY",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJf2DX7baaP44RR7jI--DF6IA",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PX22+57"
+            },
+            "price_level": 3,
+            "rating": 4.6,
+            "reference": "ChIJf2DX7baaP44RR7jI--DF6IA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1827
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "# 145-, Cra. 87 #13350, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7422268,
+                    "lng": -74.0806013
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.743507629892721,
+                        "lng": -74.07973732010728
+                    },
+                    "southwest": {
+                        "lat": 4.740807970107277,
+                        "lng": -74.08243697989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Parque Mirador de los Nevados",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115655344265341034974\">Davinchi Prada</a>"
+                    ],
+                    "photo_reference": "ATtYBwICUHgafPrMFo4hr8E7hXNqBR-sy3tLqRb8Mr2Lt0xnER4szDhNLFZgtnqzv1-n5aedbZ85UOzOd0iYpsLmc08BAQja8Ocyfiju-UwUdtPE7us5alUywNNX4R7ehS2SaZQTFuAaltnZKfoPFEs5gFns-YMj434V1QKd_ZiB0Y5Vv7th",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJUz6-nv6EP44R5UgDPy62xLM",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWR9+VQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJUz6-nv6EP44R5UgDPy62xLM",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3859
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aures, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7338591,
+                    "lng": -74.09549299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.735208929892721,
+                        "lng": -74.09414317010726
+                    },
+                    "southwest": {
+                        "lat": 4.732509270107277,
+                        "lng": -74.09684282989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Chucua Public Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117765771067323120605\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwJej3KKrYAc09KaFrR3lQmkLDA6Zd3u0vnnpYWHRzUoiWDojMLkcgnGyxKtl48flrPKUdXSycNdvDNPlE6bp-dVgiRCzYkE8W4wUyqbFn4S1DHkJccovwGd5yxMlBe8cuLebdNgQOC6erBrm3-DiaxR5_xNFsjkUxdkVsM-NOeMq-d2",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJM2FPOuyEP44Ri9nVcHk2yj4",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWM3+GR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJM2FPOuyEP44Ri9nVcHk2yj4",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 102 #129-78, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.730937,
+                    "lng": -74.0985184
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.732286829892722,
+                        "lng": -74.09716857010729
+                    },
+                    "southwest": {
+                        "lat": 4.729587170107278,
+                        "lng": -74.09986822989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Lagos De Suba Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102790132690654673329\">Jose David Mora</a>"
+                    ],
+                    "photo_reference": "ATtYBwIlo7zcJyKm8wiSJQINYzL_6ignpgO1eRKZcVFB0GPTiELtT8MG58rjyeIbQRASrvbFjbbVri-wxxgtNvAgbrKCnfCZVzyvubPY4QISzQ0YAOR9cqqMF25qTFjC_jEa6wSe2j6Fb6DaCepg0XxQw41yrMfMzcSJO0tw9DWUTKkcBCUa",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ44d6E-uEP44RmR5fx6WqX6I",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWJ2+9H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ44d6E-uEP44RmR5fx6WqX6I",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2103
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 130b #96-50, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7307898,
+                    "lng": -74.0935721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.732139629892722,
+                        "lng": -74.09222227010729
+                    },
+                    "southwest": {
+                        "lat": 4.729439970107278,
+                        "lng": -74.09492192989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Gloria Lara Park",
+            "photos": [
+                {
+                    "height": 2336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104295132824582434695\">walter hernando ascencio franco</a>"
+                    ],
+                    "photo_reference": "ATtYBwKAdJbFIf4eMptzB_HKoMPHRqrdq956HdH5akmlRlC1CslWadGWqredcsUq9jVCOf_McbBtH6Z8SPoqPl8lELen9UqfWhDSnAFdzBX61uQst8cz9J4ScrYGPSsEDiwfC3CKvdWZxilKc2Uezq13vTW2ex265iJ1UsOgNqk5dKZTtK47",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkwpGQumEP44RSLN7Q3DPnWQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWJ4+8H"
+            },
+            "rating": 3.7,
+            "reference": "ChIJkwpGQumEP44RSLN7Q3DPnWQ",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 886
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "a 102-29, Cl. 131 #102-7, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7332715,
+                    "lng": -74.0980007
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.734653929892722,
+                        "lng": -74.09663642010729
+                    },
+                    "southwest": {
+                        "lat": 4.731954270107278,
+                        "lng": -74.09933607989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "parque- suba",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114705441671450078311\">Guillermo Pardo</a>"
+                    ],
+                    "photo_reference": "ATtYBwL1jm3HSb00FI5OJA6QXhYpnPSO80KKP_l3RwneEEUmf5fXgPPUQXlC9G3NBxZ4GVxCudzpFpig0lquLaWhztGWDE_12i-ZbMAydcRbJqf1H4jIK9vDKzsEC0dLw5tUrWKxmkSaS71FoglcBoam-5aIzrbnvwqXYX7f9E_5QR9HjCJa",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpWiRjOyEP44RJ7r1mn38IGM",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWM2+8Q"
+            },
+            "rating": 4.3,
+            "reference": "ChIJpWiRjOyEP44RJ7r1mn38IGM",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Esq. Calle 26, Entrada A La KR7, La Candelaria, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6113084,
+                    "lng": -74.0683032
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.612658229892721,
+                        "lng": -74.06695337010729
+                    },
+                    "southwest": {
+                        "lat": 4.609958570107278,
+                        "lng": -74.06965302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Independencia Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108597933853743961751\">Maximilian Mende</a>"
+                    ],
+                    "photo_reference": "ATtYBwKaroZqL77_x3F6Svpl4iUew1oqAAx_7mocIcipo-HcRqFC23aJXW0ohC_2iM39e8bnYukww6Kta7mAe-5HxWFzDKWU2Ly7vYRRxf3jFhhdmAkifH9Q6VERiJL5I3Qt-NHaF_-6saempymPU7aEfECe8F7A5tpgOOfr105QlxRHF9F4",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjbTdX5mZP44RdiuxIBI52zw",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7JW6J+GM"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjbTdX5mZP44RdiuxIBI52zw",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8772
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Calle 53 y Av. Esmeralda #s/n, Bogotá, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6584796,
+                    "lng": -74.09345789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.670492100000001,
+                        "lng": -74.0851951
+                    },
+                    "southwest": {
+                        "lat": 4.646350099999998,
+                        "lng": -74.1010631
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Simón Bolívar Metropolitan Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101738045807784526938\">David Gil</a>"
+                    ],
+                    "photo_reference": "ATtYBwKYEJjooWfGtD9o8p6aevtb1dO378L0ZN0bb2WwIZQmWPgM9PwJaU6JuqYc62Ixj6YJW6cxLEc2ogd9mWlxfY7KSSbFbpuxLuypNFW15Wv4DBNO_j4GR4ZlfDAH8Jbs_Li2UKirKssQBsuVCZWR0XKNct8y-9katA90sZ-InG9mpnQ0",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJPTkQGJKFP44RO7BCQGQ_lR0",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MW54+9J"
+            },
+            "rating": 4.7,
+            "reference": "ChIJPTkQGJKFP44RO7BCQGQ_lR0",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57927
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "a 128-13, Cra. 89 #128-3, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7209395,
+                    "lng": -74.0896092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.722193479892722,
+                        "lng": -74.08830122010728
+                    },
+                    "southwest": {
+                        "lat": 4.719493820107278,
+                        "lng": -74.09100087989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Reserva de San Felipe Public Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1138,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116133317137774795197\">Rober Ramos</a>"
+                    ],
+                    "photo_reference": "ATtYBwKGnFMZPbqKPTHYqkl-b_cwbnP-Cza5fxIYL5NzZvGvh0J12tkJtLBwNafFnyZod4Tv-D5iQJCX6y4_1TH-iCkwgilCCxUMB5csfZvXPf_vIXeYc9bLLk5_yoEIz7N5hpxLJI1QDUP22m7EREMlYtq_idCW-T6WU1huYcpp5JEul7s5",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJt6KWucSEP44R4EGoZyicEFk",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWC6+95"
+            },
+            "rating": 3.9,
+            "reference": "ChIJt6KWucSEP44R4EGoZyicEFk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl 127 #54, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.706199199999999,
+                    "lng": -74.0380018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.708663249999998,
+                        "lng": -74.03715207010727
+                    },
+                    "southwest": {
+                        "lat": 4.70274585,
+                        "lng": -74.03985172989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "El Country Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103216573630066256067\">Gina Magally Ardila Melo</a>"
+                    ],
+                    "photo_reference": "ATtYBwIcbTQqQ-316y1tm7mH0zlLTQ1KGz8-PozF1pPfpLPcmSIX5kWCFMkKB7tO0MKaGhxKhcvGprCqFjfwnm0b_h6WECJS-2BWd_l9clIxpHfU52VgvqBLpLIluzojXout7m5XUXaoWmY-N-8UZQ84iF2XZyKJbhyttTVyB7M56kJa81A9",
+                    "width": 2688
+                }
+            ],
+            "place_id": "ChIJxRNrMlOFP44RyE_JAcTXUDA",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PX46+FQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJxRNrMlOFP44RyE_JAcTXUDA",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3830
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Cl. 131 Bis #10096, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.733131999999999,
+                    "lng": -74.0964626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.734392329892722,
+                        "lng": -74.09503492010727
+                    },
+                    "southwest": {
+                        "lat": 4.731692670107278,
+                        "lng": -74.09773457989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Parque De Aures",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109761584789974263940\">Nicolas Garcia</a>"
+                    ],
+                    "photo_reference": "ATtYBwLgUJ2piKnlCON8_zhxddn3te-UYnxAoJMVsinQNms5dBnQlg4rQCkqS_td0F-nI_BWilPa4NopI973YJ_1oO0s2AvY5zRc7BF8qhq4Bqz3lBUc1Jf4m7MbcL47KlsVMo-5Blmw_tev6PWUzo1Hw0ZAzlH_jkiYSrSQN_rZCItkmQgY",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJaY7Ya-yEP44RxjPQDtiyt1c",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWM3+7C"
+            },
+            "rating": 3.7,
+            "reference": "ChIJaY7Ya-yEP44RxjPQDtiyt1c",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 227
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 118 #143A, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.749641,
+                    "lng": -74.10497289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.751076929892721,
+                        "lng": -74.10376227010727
+                    },
+                    "southwest": {
+                        "lat": 4.748377270107278,
+                        "lng": -74.10646192989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Ciudadela Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102176892676623151151\">Diego Ricardo Chavarro Barrero</a>"
+                    ],
+                    "photo_reference": "ATtYBwJvYju3lkIfoeIA-e-buNAVeaFYuKBE-ludBVAW8Ob0h5PjPp9NJzQJbpNO9Rd9hwk6rGVJknazLjD4cSYxrmj3oDh07mJ03kX75l_5d_vw7OGZbZgExykNPG3wcQaJCDAeQSnMLH1KvKukuH3byGQYgyiFwaswRVdk8qA38cALcuGW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJF7bxmmGEP44RMFpvDB7xUEA",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PVXW+V2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJF7bxmmGEP44RMFpvDB7xUEA",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 296
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 145, Suba, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.756103,
+                    "lng": -74.1112825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.757451929892722,
+                        "lng": -74.10991632010727
+                    },
+                    "southwest": {
+                        "lat": 4.754752270107278,
+                        "lng": -74.11261597989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Fontanar Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114165606272905775646\">Carolina Contreras</a>"
+                    ],
+                    "photo_reference": "ATtYBwJal98SatRbBuBOVeRL2HzTkH1iNIhoankH0YeKYnzySkFUnfMWOJsGK5TphSn31Yq8vAMSILYi_9T4tnAnOT86ISRagJYjiVn9yJ9fZqzAUDcDL67YvpJjIW7OlyD8RLq-YfP0H0ZIrwofQRV7wSvxlmw158PKPxjpXLukrrcHrXHg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJtxbR1mSEP44RS8fnxV1OzWI",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7QV4Q+CF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJtxbR1mSEP44RS8fnxV1OzWI",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6904
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cl. 63 #45-10, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.6547573,
+                    "lng": -74.08122019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.655662100000001,
+                        "lng": -74.08047827010728
+                    },
+                    "southwest": {
+                        "lat": 4.652042899999999,
+                        "lng": -74.08317792989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Parque de Los Novios",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117987772193103487727\">Nahoma Itriago Guzmán</a>"
+                    ],
+                    "photo_reference": "ATtYBwI68lfjEM9Ul1x6o7aNQK1P_esS-3BSWHC_zPYZfXXbdbkfG4l9czxfqKkObuglm08Te2bSDMZJMpgXGlwRp-7bfSZe-b5HyUlC2CcS0du1tVA0yicNOR-f5f5S9SjjF9iPWxzUmyPGQ4VckP1Bpd7hhJwhPfF_UYwW5z5ZXmLgqPw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJl5vN4LObP44RfQjTCGvSWG4",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MW39+WG"
+            },
+            "rating": 4.6,
+            "reference": "ChIJl5vN4LObP44RfQjTCGvSWG4",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17117
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 6a #119B-05, Usaquén, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.695047,
+                    "lng": -74.0309429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.696443629892722,
+                        "lng": -74.02962652010727
+                    },
+                    "southwest": {
+                        "lat": 4.693743970107279,
+                        "lng": -74.03232617989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Usaquén Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100774046577571984749\">Claudia Saez</a>"
+                    ],
+                    "photo_reference": "ATtYBwIyC-NhZovhWKrUHK4nmG_69Kz-X0VfJ5Hp0QHZKszk5Yu2RqCqs8KIMcgp35QeY_AQ25UZHQcxxZYKPE8ItO9DJoX_NoNbN0EqbXM3-Q6am4-R66xH2b3syni0_S1KU9AczRvbOW_HT2RDtluzBF9E5YDgeUp_2-4E9QSE9SwVqVvT",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJY_FV5KeaP44RhD_3CzhmIQQ",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7MXW9+2J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJY_FV5KeaP44RhD_3CzhmIQQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13758
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 95d #8835, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7160907,
+                    "lng": -74.1028382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.717252179892722,
+                        "lng": -74.10129212010727
+                    },
+                    "southwest": {
+                        "lat": 4.714552520107278,
+                        "lng": -74.10399177989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Bachue Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116133317137774795197\">Rober Ramos</a>"
+                    ],
+                    "photo_reference": "ATtYBwIw2YvIjyoOdiaZ7ByI1W52GRUqd78HSDCuurmYYYyHj9qacQuxa3fhhb8RZKK3411BGVQEtG83PaLI5KTHqcGX4LbHFeMMCyqFN4y1BP5wMB3HZjWCQnLzhSuRXZSD0wW9fLMFLLK4dojPZF2foBqScOx0trwgrO0oXqJr0VWe8kOc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZfZzu7eEP44RaQGeY2z-ryk",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PV8W+CV"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZfZzu7eEP44RaQGeY2z-ryk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 213
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Barrios Unidos, Bogota, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7369809,
+                    "lng": -74.0885591
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.738337529892721,
+                        "lng": -74.08691997010727
+                    },
+                    "southwest": {
+                        "lat": 4.735637870107277,
+                        "lng": -74.08961962989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Parque Bosques De Suba",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107314531711940271928\">Julian Figueroa</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ5VuXBehpRykAk4NqTmYOM-6LUiJro7HlKCLFMC5VaciUJLZrzFiwj32CkEDwkl25u1mOiiSxir0F2HY72MANmeherXEqV0GmFkfs5OqxNRSsztmxu5VUAwn2WGR56lHGbp-UVmSVWKPksQj71NFEYxPkbdEnuSvWvVv6WtuJdp0US",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJc2Ufq_qEP44Rae10NWuhfo0",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PWP6+QH"
+            },
+            "rating": 3.8,
+            "reference": "ChIJc2Ufq_qEP44Rae10NWuhfo0",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 86a ##81-13, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7051288,
+                    "lng": -74.1003937
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.706475229892722,
+                        "lng": -74.09876717010727
+                    },
+                    "southwest": {
+                        "lat": 4.703775570107278,
+                        "lng": -74.10146682989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "G Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113673513821318466784\">Mari Pérez</a>"
+                    ],
+                    "photo_reference": "ATtYBwJpy918PbZ1YzQWbc0orHaQIXcWkDzoeWWTwuUFJ5MLmeZRZgW5E8LNDJ9MJZFPxSZV_gf8SfPSeCGyE78A56gZSReSx6WPeWeYzpTzSAV8lUQS6C7vYb01Xu7Z1Xx7vNusCxciuESvwvyrAzntnk82ifWsKhuii9yKuutpOdfpePec",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ9WW8fTWbP44RJ4Gm32NAGHo",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PV4X+3R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ9WW8fTWbP44RJ4Gm32NAGHo",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cra. 125b, Bogotá, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.7409534,
+                    "lng": -74.1090385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.742220529892721,
+                        "lng": -74.10745897010727
+                    },
+                    "southwest": {
+                        "lat": 4.739520870107278,
+                        "lng": -74.11015862989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "La Gaitana Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104598024996620417576\">Javier Capera</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ1w2seC5iqHsE_X3DRXyWSgnphXfZbs2-Tg2yXO-weSP10Uo8cvo9rwbUtD4lsY74VgvAZxmsrWqPOXogOS1LaHR51fk9eA-KYRL5BmAVgCFrvCmJThv7Xe4rKfNUYyWlN5A5CMn-STPsFPOUVlWmOgovUMClbBX8xnfh0-yfRsqC1",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJAZhw4Y6EP44R2m8EkT4hvYo",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7PVRR+99"
+            },
+            "rating": 4.2,
+            "reference": "ChIJAZhw4Y6EP44R2m8EkT4hvYo",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1187
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bogota, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.742783699999999,
+                    "lng": -74.0886989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.744102329892723,
+                        "lng": -74.08729627010727
+                    },
+                    "southwest": {
+                        "lat": 4.741402670107279,
+                        "lng": -74.08999592989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "la Campiña Park",
+            "photos": [
+                {
+                    "height": 3488,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105090657878007612354\">jesus chavaco quina</a>"
+                    ],
+                    "photo_reference": "ATtYBwIjE-1M_P5yRoUaCoycX6D-d0pJN-1rp8ojwTyXcuxI16TK8jdbZFttmpo-0-gUT2P7nVjQdsOFHgULumOq96YUpJzSFFSswX8Zm8B9UdgPy3puBjQh8TENBZWC0xaQfPxFLzxH8SlSp6yP9vGdcGcl0mse7zF7MrumSpiICxAp-PZi",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJgyR7cKWFP44RHePI13uKGOc",
+            "plus_code": {
+                "compound_code": "PWV6+4G Cota, Cundinamarca",
+                "global_code": "67P7PWV6+4G"
+            },
+            "rating": 3.8,
+            "reference": "ChIJgyR7cKWFP44RHePI13uKGOc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bogota, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 4.754601699999999,
+                    "lng": -74.1016781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 4.755886529892721,
+                        "lng": -74.10021647010728
+                    },
+                    "southwest": {
+                        "lat": 4.753186870107277,
+                        "lng": -74.10291612989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Las Flores Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117161604264823072241\">Jesus Antonio Zapata Cruz</a>"
+                    ],
+                    "photo_reference": "ATtYBwK2oO7ugTT1BD-mzStqxWFwzGV8Temh70Ao5LRDyPp0-OG7luqXoRuaUsvl68OXrwMpMCvn80LKFLXuxZCOW60a9sWgcjoJOaw2fLfzcrqCb54M-QKZSuKR-HvpP-88oUenJn9xpADPI869OusBSK8foWUiGiQukcrbSwn2KnZlrNEU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJ05WmWeEP44RuaoUVJtV1wI",
+            "plus_code": {
+                "compound_code": "",
+                "global_code": "67P7QV3X+R8"
+            },
+            "rating": 4,
+            "reference": "ChIJJ05WmWeEP44RuaoUVJtV1wI",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1551
+        }
+    ],
+    "status": "OK"
 }
