@@ -2,7 +2,13 @@
 
 Esta es una aplicación **PWA** que integra React con varias tecnologías para hacer un MVP.
 
-El despliegue/demo se puede encontrar [aquí](https://app.treinta.ml) y el código fuente se puede encontrar en [GitHub](https://github.com/sytabaresa/treinta)
+**La aplicación como APK se puede descargar [aquí](https://github.com/sytabaresa/treinta/releases/download/v0.0.1/treinta_v0.0.1.apk)**
+
+El despliegue/demo web se puede encontrar [aquí](https://app.treinta.ml) que está optimizado para móviles, si no se instala la APK se puede agregar en este link como una aplicación PWA:
+
+![PWA-example](./public/assets/pwa-example.png)
+
+El código fuente se puede encontrar en [github](https://github.com/sytabaresa/treinta)
 
 # Diseños
 
