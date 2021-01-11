@@ -1,43 +1,23 @@
 import Head from 'next/head'
-// import { HOME_OG_IMAGE_URL } from '../lib/constants'
+import { APP_NAME, APP_DESCRIPTION } from '../lib/constants'
 
 export default function Meta() {
   return (
     <Head>
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/favicon/apple-touch-icon.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon/favicon-16x16.png"
-      />
-      <link rel="manifest" href="/favicon/site.webmanifest" />
-      <link
-        rel="mask-icon"
-        href="/favicon/safari-pinned-tab.svg"
-        color="#000000"
-      />``
-      <link rel="shortcut icon" href="/favicon/favicon.ico" />
-      <link rel="manifest" href="/manifest.json" />
-      <meta name="theme-color" content="#90cdf4" />
-      <meta name="msapplication-TileColor" content="#000000" />
-      <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
-      <meta name="theme-color" content="#000" />
-      <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content={`Treinta`}
-      />
+      <meta name='application-name' content={APP_NAME} />
+      <meta name='apple-mobile-web-app-capable' content='yes' />
+      <meta name='apple-mobile-web-app-status-bar-style' content='default' />
+      <meta name='apple-mobile-web-app-title' content={APP_NAME} />
+      <meta name='description' content={APP_DESCRIPTION} />
+      <meta name='format-detection' content='telephone=no' />
+      <meta name='mobile-web-app-capable' content='yes' />
+      <meta name='theme-color' content='#FFFFFF' />
+      {/* TIP: set viewport head meta tag in _app.js, otherwise it will show a warning */}
+      {/* <meta name='viewport' content='minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover' /> */}
+
+      <link rel='apple-touch-icon' sizes='180x180' href='/favicons/apple-touch-icon.png' />
+      <link rel='manifest' href='/manifest.json' />
+      <link rel='shortcut icon' href='/favicons/favicon.ico' />
       {/* <meta property="og:image" content={HOME_OG_IMAGE_URL} /> */}
     </Head>
   )
