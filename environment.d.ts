@@ -4,6 +4,7 @@ declare global {
       AUTH0_CLIENT_ID: string,
       AUTH0_CLIENT_SECRET: string,
       AUTH0_DOMAIN: string,
+      GOOGLE_API_KEY: string,
     }
   }
 }

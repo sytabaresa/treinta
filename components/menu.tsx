@@ -13,7 +13,7 @@ export interface Menuprops {
 
 export const Menu = (props: Menuprops) => {
   const { title, Icon } = props
-  
+
   const router = useRouter()
   const [user, loading, error] = useAuthState(firebase.auth());
 
@@ -22,7 +22,7 @@ export const Menu = (props: Menuprops) => {
     router.replace('/login')
   };
   return (
-    <div className="w-full h-30 p-6 border-b-gray-300 border-b-2 flex">
+    <div className="w-full h-30 pt-16 px-4 pb-2 border-b-gray-300 border-b-2 flex">
       <div className="flex flex-1">
         {Icon && <div className="rounded flex items-center justify-start">
           <Icon className="w-6 h-6 mr-2" />
