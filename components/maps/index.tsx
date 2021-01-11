@@ -65,7 +65,7 @@ export const Map = (props: Mapprops) => {
     <div style={{ height: '100vh', width: '100%' }}>
       <GoogleMapReact
         bootstrapURLKeys={{
-          key: process.env.GOOGLE_API_KEY,
+          key: process.env.NEXT_PUBLIC_GOOGLE_API_KEY,
           language: 'es',
           region: 'co',
         }}

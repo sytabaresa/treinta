@@ -12,6 +12,7 @@ interface ProtectedWrapperProps {
 
 export default function ProtectedWrapper(props: ProtectedWrapperProps) {
   const { children } = props
+  console.log(process.env)
   const [user, loading, error] = useAuthState(firebase.auth());
   const [content, setContent] = useState()
 
