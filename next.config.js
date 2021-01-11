@@ -23,8 +23,8 @@ module.exports = withPlugins([
   },
   webpack(config, options) {
 
-    // config.plugins.push(new FaviconsWebpackPlugin('./public/assets/logo-small.png') 
-    )
+    // config.plugins.push(new FaviconsWebpackPlugin('./public/assets/logo-small.png'))
+    
 
 
     return config
