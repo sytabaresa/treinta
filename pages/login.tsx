@@ -10,7 +10,7 @@ import Layout from '../components/layout'
 import { Button } from "../components/button"
 import { Input } from '../components/input'
 import Footer from '../components/footer'
-import { initFirebase } from '../utils/firebase'
+import { initFirebase } from '../lib/firebase'
 
 const firebase = initFirebase()
 

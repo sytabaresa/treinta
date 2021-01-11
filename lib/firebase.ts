@@ -6,13 +6,13 @@ import firebase from "firebase/app";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBJycrQIskKJT6RUq41CHLE5rZ7LSjP08",
-  authDomain: "treinta-7af60.firebaseapp.com",
-  projectId: "treinta-7af60",
-  storageBucket: "treinta-7af60.appspot.com",
-  messagingSenderId: "919336345853",
-  appId: "1:919336345853:web:c85640a9501e0e4cab9e94",
-  measurementId: "G-0DH03RFD9T"
+  apiKey: process.env.FIREBASE_API_KEY,
+  authDomain: process.env.FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.FIREBASE_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.FIREBASE_APP_ID,
+  measurementId: process.env.FIREBASE_MEASUREMENT_ID
 };
 
 // Initialize Firebase
@@ -21,7 +21,7 @@ export function initFirebase() {
   if (!(firebase as any).apps.length) {
     (firebase as any).initializeApp(firebaseConfig);
     // firebase.analytics();
-    
+
   }
   return firebase as any;
 }

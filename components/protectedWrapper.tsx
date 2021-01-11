@@ -2,7 +2,7 @@ import { useState, useEffect, ReactChild, ReactChildren } from 'react'
 import AccessDenied from './access-denied'
 import Layout from "./layout"
 import { useAuthState } from 'react-firebase-hooks/auth';
-import { initFirebase } from '../utils/firebase'
+import { initFirebase } from '../lib/firebase'
 
 const firebase = initFirebase()
 

@@ -1,5 +1,5 @@
 import React, { ReactComponentElement, ReactElement } from "react";
-import { initFirebase } from '../utils/firebase'
+import { initFirebase } from '../lib/firebase'
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { Button } from "../components/button";
 import { ReactComponentLike } from "prop-types";
